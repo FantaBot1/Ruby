@@ -127,15 +127,15 @@ global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 global.gt = "〔 𝗠𝗶𝗱𝗮𝗿𝗶 𝗕𝗼𝘁 〕"
 
-global.yt = "https://www.instagram.com/optimus.ventas.bot"
-global.yt2 = "https://www.instagram.com/optimus.ventas.bot"
-global.ig = "https://www.instagram.com/optimus.ventas.bot"
-global.md = "https://www.instagram.com/optimus.ventas.bot"
-global.fb = "https://www.instagram.com/optimus.ventas.bot"
-global.tk = "https://www.instagram.com/optimus.ventas.bot"
-global.ths = "https://www.instagram.com/optimus.ventas.bot"
-global.paypal = 'https://www.instagram.com/optimus.ventas.bot'
-global.asistencia = 'https://wa.me/51902360711' //Contacto
+global.yt = "https://www.instagram.com/rayzaa.st"
+global.yt2 = "https://www.instagram.com/rayzaa.st"
+global.ig = "https://www.instagram.com/rayzaa.st"
+global.md = "https://www.instagram.com/rayzaa.st"
+global.fb = "https://www.instagram.com/rayzaa.st"
+global.tk = "https://www.instagram.com/rayzaa.st"
+global.ths = "https://www.instagram.com/rayzaa.st"
+global.paypal = 'https://www.instagram.com/rayzaa.st'
+global.asistencia = 'https://chat.whatsapp.com/HpujP99qhL6G9vI2SXSSa1' //Contacto
 
 global.nna = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // CANAL UPDATE
 global.nn2 = 'https://www.instagram.com/optimus.ventas.bot' // CANAL GataBot
