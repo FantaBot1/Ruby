@@ -84,14 +84,13 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 
 let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.genero == 'Ocultado 🕶️' ? `🕶️` : user.genero == 'Mujer 🚺' ? `🚺` : user.genero == 'Hombre 🚹' ? `🚹` : '👤'} ${user.registered === true ? user.name : username}*${(conn.user.jid == global.conn.user.jid ? '' : `\n*SOY SUB BOT DE: https://wa.me/${global.conn.user.jid.split`@`[0]}*`) || ''}
 
-〔 𝗠𝗶𝗱𝗮𝗿𝗶 𝗕𝗼𝘁 〕
+*〔 Midari Bot 〕*
 
-*╭━〔 OPTIMUS BOT 〕━⬣*
+*╭━〔 MIDARI BOT 〕━⬣*
  ┃👤 Creador : Midari Bot
  ┃📱 Numero ; +52 899 501 5765
- ┃🤑 Adquirir : +51 902 360 712
- ┃👻 Rºeferencias : ${md}
- ┃💻 Grupo Bot : ${nna}
+ ┃🤑 Adquirir Bot Propio : +51 926 933 818
+ ┃👻 Ig : ${md}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 INFORMACIÓN DE OWNER 〕⬣*
@@ -101,12 +100,12 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃⊜ Tokens ➟ ${joincount} 🪙
 *╰━━━━━━━━━━━━⬣*
 
-*╭━〔 INFORMACIÓN DE OPTIMUS BOT 〕⬣*
+*╭━〔 INFORMACIÓN DE MIDARI BOT 〕⬣*
 ┃💫➺ _${usedPrefix}cuentasbot_
 ┃💫➺ _${usedPrefix}gruposbot_
 ┃💫➺ _${usedPrefix}estado_
 ┃💫➺ _${usedPrefix}infobot_
-┃💫➺ _${usedPrefix}comprarbot_
+┃💫➺ _${usedPrefix}comprarbot / propio_
 ┃💫➺ _${usedPrefix}creador_
 ┃💫➺ _${usedPrefix}velocidad_
 *╰━━━━━━━━━━━━⬣*
@@ -515,7 +514,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃💎➺ _${usedPrefix}unete *enlace*_
 ┃💎➺ _${usedPrefix}dardiamantes *cantidad*_
 ┃💎➺ _${usedPrefix}darxp *cantidad*_
-┃💎➺ _${usedPrefix}dargatacoins *cantidad*_
+┃💎➺ _${usedPrefix}darcoins *cantidad*_
 ┃💎➺ _${usedPrefix}addprem | userpremium *@tag* *cantidad*_
 ┃💎➺ _${usedPrefix}addprem2 | userpremium2 *@tag* *cantidad*_
 ┃💎➺ _${usedPrefix}addprem3 | userpremium3 *@tag* *cantidad*_
@@ -529,7 +528,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃💎➺ _${usedPrefix}comunicargrupos *texto*_
 ┃💎➺ _${usedPrefix}borrartmp | cleartmp_
 ┃💎➺ _${usedPrefix}delexp *@tag*_
-┃💎➺ _${usedPrefix}delgatacoins *@tag*_
+┃💎➺ _${usedPrefix}delcoins *@tag*_
 ┃💎➺ _${usedPrefix}deldiamantes *@tag*_
 ┃💎➺ _${usedPrefix}reiniciar | restart_
 ┃💎➺ _${usedPrefix}ctualizar | update_
