@@ -10,7 +10,7 @@ handler.botAdmin = true
 global.MixtoInterna4 = `
 ╭┈┈ ๑❀๑ •  *MIXTO* • ๑❀๑ ••:
 │ *SALA INTERNA MIXTA*
-│ *HORA :*  🇵🇪  🇦🇷
+│ *HORA :* (  )🇲🇽 (  )🇨🇴
 │ *MOD :*
 │
 │ _ESCUADRA 1_
