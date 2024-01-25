@@ -135,9 +135,9 @@ global.fb = "https://www.instagram.com/rayzaa.st"
 global.tk = "https://www.instagram.com/rayzaa.st"
 global.ths = "https://www.instagram.com/rayzaa.st"
 global.paypal = 'https://www.instagram.com/rayzaa.st'
-global.asistencia = 'https://chat.whatsapp.com/HpujP99qhL6G9vI2SXSSa1' //Contacto
+global.asistencia = 'https://chat.whatsapp.com/H5YTGrFnKLfALZh8TXoIMU' //Contacto
 
-global.nna = 'https://chat.whatsapp.com/FlSQ9PkM8lB5YPRv73ZbQ3' // CANAL UPDATE
+global.nna = 'https://chat.whatsapp.com/H5YTGrFnKLfALZh8TXoIMU' // CANAL UPDATE
 global.nn2 = 'https://www.instagram.com/optimus.ventas.bot' // CANAL GataBot
 global.nna2 = 'https://www.instagram.com/optimus.ventas.bot' // Help
 global.nn = 'https://www.instagram.com/optimus.ventas.bot' // Grupo 1
