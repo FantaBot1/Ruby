@@ -10,7 +10,7 @@ handler.botAdmin = true
 global.Mixto6 = `
 ╭┈┈ ๑❀๑ •  *MIXTO* • ๑❀๑ ••:
 │      ෆ _Encargadx:_
-│      ෆ _Horario:_ (  )🇵🇪 (  )🇦🇷
+│      ෆ _Horario:_ (  )🇲🇽 (  )🇨🇴
 │      ෆ _Mod:_     
 │
 │ㅤㅤ_ʚ Jugadorxs:_
