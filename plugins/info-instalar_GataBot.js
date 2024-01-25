@@ -4,28 +4,37 @@ const handler = async (m, {conn}) => {
 handler.command = /^(ComprarBot)$/i;
 export default handler;
 global.ComprarBot = `
-〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
+*〔 MIDARI BOT 〕*
 
-*COMPRAR BOT OPTIMUS*
+*COMPRAR MIDARI BOT*
 
 *━━━━━━━━━━━━━⬣*
-*✅ METODO DIAMANTES*
+*MEMBRESIA MIDARI BOT MENSUAL*
 *⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
-*200 DIAMANTES 1 GRUPO 💎*
-*700 DIAMANTES PERMANENTE 💎*
+*1 GRUPO* $20 MXN / 1.5$ USD
+*2 GRUPOS* $35 MXN / 2.5$ USD
+*3 GRUPOS* $50 MXN / 3.5$ USD
 *━━━━━━━━━━━━━⬣*
 
 *━━━━━━━━━━━━━⬣*
-*✅ METODO PERU BOT PROPIO*
+*ADQUIERE MIDARI BOT PERMANENTE*
 *⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
-*YAPE 1 :* 926 933 818 , Luis Alberto , 25 SOLES PROPIO
-*YAPE 2 :* 976 336 831 , Mary Luz , 25 SOLES PROPIO
+*1 GRUPO* $50 MXN / 3.5$ USD
+*2 GRUPOS* $90 MXN / 7$ USD
+*3 GRUPOS* $140 MXN / 10$ USD
 *━━━━━━━━━━━━━⬣*
+Contacto: @Rayzaa.st
+Wpp: +52 899 501 5765
+Metodo de Pago:
+✔️Paypal
+✔️Transferencia y Deposito (En todo 🇲🇽)
+✔️Binance
 
 *━━━━━━━━━━━━━⬣*
-*✅ METODO PERU BOT GRUPO*
+*ADQUIERE TU BOT PROPIO PERSONALIZADO*
 *⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
-*YAPE 1 :* 926 933 818 , Luis Alberto , 5 SOLES 1 GRUPO
-*YAPE 2 :* 976 336 831 , Mary Luz , 5 SOLES 1 GRUPOº
+*YAPE:* 25 SOLES | $120 MXN | 6.7$ USD
 *━━━━━━━━━━━━━⬣*
+Contacto: @optimus.ventas.bot
+Wpp: +51 926 933 818 (Luis Alberto)
 `;
